@@ -1,1 +1,2 @@
 I love to learn git.
+Now i am familiar with git and feel fress to do something on git.
